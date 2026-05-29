@@ -39,3 +39,11 @@ Ce projet a permis d'explorer plusieurs domaines :
 Informatique : Développement du code de contrôle et gestion de la rotation répétitive à 180°.
 Gestion de projet : Autonomie, planification et résolution de bugs techniques.
 
+Le code : Ethan
+Les Legos : Lucas
+Le design de l'interface : Lucas
+L'idée : Ethan et Lucas
+Le cablâge : Ethan
+Le github : Ethan et Lucas
+La présenation (diaporama) : Lucas
+
